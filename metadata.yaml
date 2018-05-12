@@ -1,0 +1,28 @@
+_repo: The-Story-of-Joan-of-ArcThe-Witch-Saint_45479
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45479-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mangasarian, M. M. (Mangasar Mugurditch)
+    alias: Mangasarian, Mangasar Mugurditch
+    birthdate: 1859
+    deathdate: 1943
+    gutenberg_agent_id: '1951'
+    url: http://www.gutenberg.org/2009/agents/1951
+    wikipedia: http://en.wikipedia.org/wiki/M._M._Mangasarian
+description: ''
+gutenberg_issued: '2014-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45479'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Joan, of Arc, Saint, 1412-1431'
+title: The Story of Joan of Arc the Witch-Saint
+url: http://www.gutenberg.org/ebooks/45479
